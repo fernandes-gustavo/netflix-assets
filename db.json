@@ -1,0 +1,156 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "title": "Assistir novamente",
+      "movie": [
+        {
+          "id": 1,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/assistir-novamente/filme01.webp"
+        },
+        {
+          "id": 2,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/assistir-novamente/filme02.webp"
+        },
+        {
+          "id": 3,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/assistir-novamente/filme03.webp"
+        },
+        {
+          "id": 4,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/assistir-novamente/filme04.webp"
+        },
+        {
+          "id": 5,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/assistir-novamente/filme05.webp"
+        },
+        {
+          "id": 6,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/assistir-novamente/filme06.webp"
+        },
+        {
+          "id": 7,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/assistir-novamente/filme07.webp"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Programas infantis",
+      "movie": [
+        {
+          "id": 8,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/programas-infantis/filme08.webp"
+        },
+        {
+          "id": 9,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/programas-infantis/filme09.webp"
+        },
+        {
+          "id": 10,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/programas-infantis/filme10.webp"
+        },
+        {
+          "id": 11,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/programas-infantis/filme11.webp"
+        },
+        {
+          "id": 12,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/programas-infantis/filme12.webp"
+        },
+        {
+          "id": 13,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/programas-infantis/filme13.webp"
+        },
+        {
+          "id": 14,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/programas-infantis/filme14.webp"
+        },
+        {
+          "id": 15,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/programas-infantis/filme15.webp"
+        },
+        {
+          "id": 16,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/programas-infantis/filme16.webp"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Terror",
+      "movie": [
+        {
+          "id": 17,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/terror/filme17.webp"
+        },
+        {
+          "id": 18,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/terror/filme18.webp"
+        },
+        {
+          "id": 19,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/terror/filme19.webp"
+        },
+        {
+          "id": 20,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/terror/filme20.webp"
+        },
+        {
+          "id": 21,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/terror/filme21.webp"
+        },
+        {
+          "id": 22,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/terror/filme22.webp"
+        },
+        {
+          "id": 23,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/terror/filme23.webp"
+        },
+        {
+          "id": 24,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/terror/filme24.webp"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Ação e Aventura",
+      "movie": [
+        {
+          "id": 25,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/acao-aventura/filme25.webp"
+        },
+        {
+          "id": 26,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/acao-aventura/filme26.webp"
+        },
+        {
+          "id": 27,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/acao-aventura/filme27.webp"
+        },
+        {
+          "id": 28,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/acao-aventura/filme28.webp"
+        },
+        {
+          "id": 29,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/acao-aventura/filme29.webp"
+        },
+        {
+          "id": 30,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/acao-aventura/filme30.webp"
+        },
+        {
+          "id": 31,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/acao-aventura/filme31.webp"
+        },
+        {
+          "id": 32,
+          "cover_url": "https://raw.githubusercontent.com/fernandes-gustavo/netflix-assets/refs/heads/main/acao-aventura/filme32.webp"
+        }
+      ]
+    }
+  ]
+}
